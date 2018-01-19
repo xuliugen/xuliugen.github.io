@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://yoursite.com</loc>
+        <loc>http://xuliugen.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>http://yoursite.com/2018/01/17/Neo4j-20180117-What-is-a-graph-database-and-how-to-get-start/</loc>
+        <loc>http://xuliugen.com/2018/01/17/Neo4j-20180117-What-is-a-graph-database-and-how-to-get-start/</loc>
         <lastmod>2018-01-19T08:00:42.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -15,7 +15,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/</loc>
+        <loc>http://xuliugen.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/</loc>
         <lastmod>2018-01-19T06:36:27.073Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>http://yoursite.com/2018/01/08/Tomcat-20181019-Four-pictures-take-you-through-the-Tomcat-system-architecture/</loc>
+        <loc>http://xuliugen.com/2018/01/08/Tomcat-20181019-Four-pictures-take-you-through-the-Tomcat-system-architecture/</loc>
         <lastmod>2018-01-19T06:14:28.313Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

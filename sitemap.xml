@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>http://yoursite.com/post-sitemap.xml</loc>
+        <loc>http://xuliugen.com/post-sitemap.xml</loc>
         <lastmod>2018-01-19T08:00:42.579Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite.com/page-sitemap.xml</loc>
+        <loc>http://xuliugen.com/page-sitemap.xml</loc>
         <lastmod>2018-01-19T05:41:03.755Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite.com/category-sitemap.xml</loc>
+        <loc>http://xuliugen.com/category-sitemap.xml</loc>
         <lastmod>2018-01-19T06:14:28.313Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://yoursite.com/tag-sitemap.xml</loc>
+        <loc>http://xuliugen.com/tag-sitemap.xml</loc>
         <lastmod>2018-01-19T06:14:28.313Z</lastmod>
     </sitemap>
 
