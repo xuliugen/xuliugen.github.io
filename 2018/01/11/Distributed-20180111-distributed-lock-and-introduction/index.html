@@ -98,7 +98,7 @@
 <meta name="keywords" content="分布式,分布式锁">
 <meta property="og:type" content="article">
 <meta property="og:title" content="分布式锁简单入门以及三种实现方式介绍">
-<meta property="og:url" content="http://xuliugen.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/index.html">
+<meta property="og:url" content="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/index.html">
 <meta property="og:site_name" content="徐刘根的博客">
 <meta property="og:description" content="很多小伙伴在学习Java的时候，总是感觉Java多线程在实际的业务中很少使用，以至于不会花太多的时间去学习，技术债不断累积！等到了一定程度的时候对于与Java多线程相关的东西就很难理解，今天需要探讨的东西也是一样的和Java多线程相关的！做好准备，马上开车！ 学过Java多线程的应该都知道什么是锁，没学过的也不用担心，Java中的锁可以简单的理解为多线程情况下访问临界资源的一种线程同步机制。 在学">
 <meta property="og:locale" content="zh-Hans">
@@ -106,7 +106,7 @@
 <meta property="og:image" content="http://img.blog.csdn.net/20180111195240399?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGxnZW4xNTczODc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 <meta property="og:image" content="http://img.blog.csdn.net/20180115095230690?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGxnZW4xNTczODc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 <meta property="og:image" content="http://img.blog.csdn.net/20180112111428330?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGxnZW4xNTczODc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
-<meta property="og:updated_time" content="2018-01-19T06:36:27.073Z">
+<meta property="og:updated_time" content="2018-01-19T13:31:18.700Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="分布式锁简单入门以及三种实现方式介绍">
 <meta name="twitter:description" content="很多小伙伴在学习Java的时候，总是感觉Java多线程在实际的业务中很少使用，以至于不会花太多的时间去学习，技术债不断累积！等到了一定程度的时候对于与Java多线程相关的东西就很难理解，今天需要探讨的东西也是一样的和Java多线程相关的！做好准备，马上开车！ 学过Java多线程的应该都知道什么是锁，没学过的也不用担心，Java中的锁可以简单的理解为多线程情况下访问临界资源的一种线程同步机制。 在学">
@@ -139,7 +139,7 @@
 
 
 
-  <link rel="canonical" href="http://xuliugen.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/"/>
+  <link rel="canonical" href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/"/>
 
 
 
@@ -322,7 +322,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://xuliugen.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/">
+    <link itemprop="mainEntityOfPage" href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="徐刘根">
@@ -393,8 +393,8 @@
                 <i class="fa fa-comment-o"></i>
               </span>
               
-                <a href="/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/#SOHUCS" itemprop="discussionUrl">
-                  <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2018/01/11/Distributed-20180111-distributed-lock-and-introduction/" itemprop="commentsCount"></span>
+                <a href="/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/#SOHUCS" itemprop="discussionUrl">
+                  <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/" itemprop="commentsCount"></span>
                 </a>
               
             
@@ -402,7 +402,7 @@
 
           
           
-             <span id="/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/" class="leancloud_visitors" data-flag-title="分布式锁简单入门以及三种实现方式介绍">
+             <span id="/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/" class="leancloud_visitors" data-flag-title="分布式锁简单入门以及三种实现方式介绍">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -510,6 +510,7 @@
 <p>缺点：因为需要频繁的创建和删除节点，性能上不如Redis方式。</p>
 <h2 id="6、总结"><a href="#6、总结" class="headerlink" title="6、总结"></a>6、总结</h2><p>上面的三种实现方式，没有在所有场合都是完美的，所以，应根据不同的应用场景选择最适合的实现方式。</p>
 <p>在分布式环境中，对资源进行上锁有时候是很重要的，比如抢购某一资源，这时候使用分布式锁就可以很好地控制资源。<br>当然，在具体使用中，还需要考虑很多因素，比如超时时间的选取，获取锁时间的选取对并发量都有很大的影响，上述实现的分布式锁也只是一种简单的实现，主要是一种思想，以上包括文中的代码可能并不适用于正式的生产环境，只做入门参考！</p>
+<hr>
 <p>参考文章：</p>
 <p>1、<a href="https://yq.aliyun.com/articles/60663" target="_blank" rel="noopener">https://yq.aliyun.com/articles/60663</a></p>
 <p>2、<a href="http://www.hollischuang.com/archives/1716" target="_blank" rel="noopener">http://www.hollischuang.com/archives/1716</a></p>
@@ -571,7 +572,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="http://xuliugen.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/" title="分布式锁简单入门以及三种实现方式介绍">http://xuliugen.com/2018/01/11/Distributed-20180111-distributed-lock-and-introduction/</a>
+    <a href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/" title="分布式锁简单入门以及三种实现方式介绍">http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>
