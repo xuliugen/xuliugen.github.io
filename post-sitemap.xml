@@ -7,8 +7,16 @@
     </url>
 
     <url>
-        <loc>http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/</loc>
-        <lastmod>2018-01-19T13:31:18.700Z</lastmod>
+        <loc>http://xuliugen.com/2018/01/10/Spring-20180110-Spring-transaction-and-dynamic-proxy/</loc>
+        <lastmod>2018-01-20T02:19:22.601Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-introduction/</loc>
+        <lastmod>2018-01-20T02:15:55.064Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

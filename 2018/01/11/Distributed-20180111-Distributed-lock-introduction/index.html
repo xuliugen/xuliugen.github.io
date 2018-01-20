@@ -98,7 +98,7 @@
 <meta name="keywords" content="分布式,分布式锁">
 <meta property="og:type" content="article">
 <meta property="og:title" content="分布式锁简单入门以及三种实现方式介绍">
-<meta property="og:url" content="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/index.html">
+<meta property="og:url" content="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-introduction/index.html">
 <meta property="og:site_name" content="徐刘根的博客">
 <meta property="og:description" content="很多小伙伴在学习Java的时候，总是感觉Java多线程在实际的业务中很少使用，以至于不会花太多的时间去学习，技术债不断累积！等到了一定程度的时候对于与Java多线程相关的东西就很难理解，今天需要探讨的东西也是一样的和Java多线程相关的！做好准备，马上开车！ 学过Java多线程的应该都知道什么是锁，没学过的也不用担心，Java中的锁可以简单的理解为多线程情况下访问临界资源的一种线程同步机制。 在学">
 <meta property="og:locale" content="zh-Hans">
@@ -106,7 +106,7 @@
 <meta property="og:image" content="http://img.blog.csdn.net/20180111195240399?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGxnZW4xNTczODc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 <meta property="og:image" content="http://img.blog.csdn.net/20180115095230690?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGxnZW4xNTczODc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
 <meta property="og:image" content="http://img.blog.csdn.net/20180112111428330?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQveGxnZW4xNTczODc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast">
-<meta property="og:updated_time" content="2018-01-19T13:31:18.700Z">
+<meta property="og:updated_time" content="2018-01-20T02:15:55.064Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="分布式锁简单入门以及三种实现方式介绍">
 <meta name="twitter:description" content="很多小伙伴在学习Java的时候，总是感觉Java多线程在实际的业务中很少使用，以至于不会花太多的时间去学习，技术债不断累积！等到了一定程度的时候对于与Java多线程相关的东西就很难理解，今天需要探讨的东西也是一样的和Java多线程相关的！做好准备，马上开车！ 学过Java多线程的应该都知道什么是锁，没学过的也不用担心，Java中的锁可以简单的理解为多线程情况下访问临界资源的一种线程同步机制。 在学">
@@ -139,7 +139,7 @@
 
 
 
-  <link rel="canonical" href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/"/>
+  <link rel="canonical" href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-introduction/"/>
 
 
 
@@ -322,7 +322,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/">
+    <link itemprop="mainEntityOfPage" href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-introduction/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="徐刘根">
@@ -393,8 +393,8 @@
                 <i class="fa fa-comment-o"></i>
               </span>
               
-                <a href="/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/#SOHUCS" itemprop="discussionUrl">
-                  <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/" itemprop="commentsCount"></span>
+                <a href="/2018/01/11/Distributed-20180111-Distributed-lock-introduction/#SOHUCS" itemprop="discussionUrl">
+                  <span id="changyan_count_unit" class="post-comments-count hc-comment-count" data-xid="2018/01/11/Distributed-20180111-Distributed-lock-introduction/" itemprop="commentsCount"></span>
                 </a>
               
             
@@ -402,7 +402,7 @@
 
           
           
-             <span id="/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/" class="leancloud_visitors" data-flag-title="分布式锁简单入门以及三种实现方式介绍">
+             <span id="/2018/01/11/Distributed-20180111-Distributed-lock-introduction/" class="leancloud_visitors" data-flag-title="分布式锁简单入门以及三种实现方式介绍">
                <span class="post-meta-divider">|</span>
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
@@ -572,7 +572,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/" title="分布式锁简单入门以及三种实现方式介绍">http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-and-introduction/</a>
+    <a href="http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-introduction/" title="分布式锁简单入门以及三种实现方式介绍">http://xuliugen.com/2018/01/11/Distributed-20180111-Distributed-lock-introduction/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>
@@ -602,8 +602,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/01/08/Tomcat-20181019-Four-pictures-take-you-through-the-Tomcat-system-architecture/" rel="next" title="四张图带你了解Tomcat系统架构--让面试官颤抖的Tomcat回答系列！">
-                <i class="fa fa-chevron-left"></i> 四张图带你了解Tomcat系统架构--让面试官颤抖的Tomcat回答系列！
+              <a href="/2018/01/10/Spring-20180110-Spring-transaction-and-dynamic-proxy/" rel="next" title="面试必备技能：JDK动态代理给Spring事务埋下的坑！">
+                <i class="fa fa-chevron-left"></i> 面试必备技能：JDK动态代理给Spring事务埋下的坑！
               </a>
             
           </div>
@@ -693,7 +693,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives/">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">4</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
@@ -704,7 +704,7 @@
             
             <div class="site-state-item site-state-categories">
               <a href="/categories/index.html">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">4</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
@@ -715,7 +715,7 @@
             
             <div class="site-state-item site-state-tags">
               <a href="/tags/index.html">
-                <span class="site-state-item-count">4</span>
+                <span class="site-state-item-count">6</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
