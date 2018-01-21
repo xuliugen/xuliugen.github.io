@@ -1,65 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
   <url>
-    <loc>http://xuliugen.com/Tomcat/2018-01-08-Four-pictures-take-you-through-the-Tomcat-system-architecture.html</loc>
-    <lastmod>2018-01-20T10:39:26.630Z</lastmod>
+    <loc>http://xuliugen.com/article/Tomcat/Four-pictures-take-you-to-understand-the-tomcat-system-architecture.html</loc>
+    <lastmod>2018-01-21T03:42:30.500Z</lastmod>
     <data>
         <display>
         <title>四张图带你了解Tomcat系统架构--让面试官颤抖的Tomcat回答系列！</title>
         <pubTime>2018-01-08T15:47:44.000Z</pubTime>
+        
         <tag>Tomcat</tag>
+         
+         
+           
+             
               <breadCrumb title="Tomcat" url="http://xuliugen.com/categories/Tomcat/"/>
+          
         </display>
     </data>
     </url>
+
+    
   <url>
-    <loc>http://xuliugen.com/Distributed/2018-01-11-Distributed-lock-introduction.html</loc>
+    <loc>http://xuliugen.com/article/Distributed/Distributed-lock-introduction.html</loc>
     <lastmod>2018-01-20T10:39:09.998Z</lastmod>
     <data>
         <display>
         <title>分布式锁简单入门以及三种实现方式介绍</title>
         <pubTime>2018-01-11T13:17:44.000Z</pubTime>
+        
         <tag>分布式</tag>
+         
         <tag>分布式锁</tag>
+         
+         
+           
+             
               <breadCrumb title="分布式" url="http://xuliugen.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>
+
+    
   <url>
-    <loc>http://xuliugen.com/Neo4j/2018-01-17-What-is-a-graph-database-and-how-to-get-start.html</loc>
+    <loc>http://xuliugen.com/article/Neo4j/What-is-graph-database-and-how-to-get-start.html</loc>
     <lastmod>2018-01-20T10:39:02.438Z</lastmod>
     <data>
         <display>
         <title>带你发现新大陆！什么是图数据库以及简单入门！</title>
         <pubTime>2018-01-17T13:47:44.000Z</pubTime>
+        
         <tag>Neo4j</tag>
+         
+         
+           
+             
               <breadCrumb title="数据库" url="http://xuliugen.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+          
         </display>
     </data>
     </url>
+
+    
   <url>
-    <loc>http://xuliugen.com/Spring/2018-01-10-Spring-transaction-and-dynamic-proxy.html</loc>
+    <loc>http://xuliugen.com/article/Spring/Spring-transaction-and-dynamic-proxy.html</loc>
     <lastmod>2018-01-20T10:38:46.406Z</lastmod>
     <data>
         <display>
         <title>面试必备技能：JDK动态代理给Spring事务埋下的坑！</title>
         <pubTime>2018-01-10T13:38:44.000Z</pubTime>
+        
         <tag>Spring</tag>
+         
         <tag>事务</tag>
+         
+         
+           
+             
               <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
         </display>
     </data>
     </url>
+
+    
   <url>
-    <loc>http://xuliugen.com/Share/2018-01-04-Recommended-several-very-useful-IDEA-plugins.html</loc>
+    <loc>http://xuliugen.com/article/Share/Recommended-several-very-useful-IDEA-plugins.html</loc>
     <lastmod>2018-01-20T08:57:08.916Z</lastmod>
     <data>
         <display>
         <title>推荐几款非常实用的IDEA插件</title>
         <pubTime>2018-01-04T05:57:44.000Z</pubTime>
+        
         <tag>IDEA</tag>
+         
+         
+           
+             
               <breadCrumb title="资源分享" url="http://xuliugen.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+          
         </display>
     </data>
     </url>
+
+    
+    
 </urlset>
