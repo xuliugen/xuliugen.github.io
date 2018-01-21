@@ -4,28 +4,8 @@
 
     
   <url>
-    <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:28:16.437Z</lastmod>
-    <data>
-        <display>
-        <title>Spring核心技术原理-（2）-通过Web开发演进过程了解一下为什么要有Spring AOP?</title>
-        <pubTime>2017-12-25T06:35:44.000Z</pubTime>
-        
-        <tag>Spring</tag>
-         
-         
-           
-             
-              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://xuliugen.com/article/Spring/Three-routes-tell-you-how-to-master-the-core-principles-of-Spring-IoC-container.html</loc>
-    <lastmod>2018-01-21T05:27:46.102Z</lastmod>
+    <lastmod>2018-01-21T05:34:39.877Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（4）-三条路线告诉你如何掌握Spring IoC容器的核心原理</title>
@@ -45,7 +25,7 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/The-history-of-Spring-and-today's-ecological-empire.html</loc>
-    <lastmod>2018-01-21T05:27:43.047Z</lastmod>
+    <lastmod>2018-01-21T05:33:53.317Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（3）-Spring历史版本变迁和如今的生态帝国</title>
@@ -64,8 +44,28 @@
 
     
   <url>
+    <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
+    <lastmod>2018-01-21T05:33:38.845Z</lastmod>
+    <data>
+        <display>
+        <title>Spring核心技术原理-（2）-通过Web开发演进过程了解一下为什么要有Spring AOP?</title>
+        <pubTime>2017-12-25T06:35:44.000Z</pubTime>
+        
+        <tag>Spring</tag>
+         
+         
+           
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:27:32.454Z</lastmod>
+    <lastmod>2018-01-21T05:32:57.157Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
