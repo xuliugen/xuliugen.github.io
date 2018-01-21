@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/Three-routes-tell-you-how-to-master-the-core-principles-of-Spring-IoC-container.html</loc>
-    <lastmod>2018-01-21T05:39:07.021Z</lastmod>
+    <lastmod>2018-01-21T06:33:30.661Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（4）-三条路线告诉你如何掌握Spring IoC容器的核心原理</title>
@@ -13,27 +13,7 @@
         
         <tag>Spring</tag>
          
-         
-           
-             
-              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://xuliugen.com/article/Spring/Spring-transaction-and-dynamic-proxy.html</loc>
-    <lastmod>2018-01-21T05:39:01.044Z</lastmod>
-    <data>
-        <display>
-        <title>面试必备技能：JDK动态代理给Spring事务埋下的坑！</title>
-        <pubTime>2018-01-10T13:38:44.000Z</pubTime>
-        
-        <tag>Spring</tag>
-         
-        <tag>事务</tag>
+        <tag>Spring IoC</tag>
          
          
            
@@ -47,7 +27,7 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/The-history-of-Spring-and-today's-ecological-empire.html</loc>
-    <lastmod>2018-01-21T05:38:53.061Z</lastmod>
+    <lastmod>2018-01-21T06:33:28.837Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（3）-Spring历史版本变迁和如今的生态帝国</title>
@@ -67,7 +47,7 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:38:46.941Z</lastmod>
+    <lastmod>2018-01-21T06:33:18.806Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
@@ -87,13 +67,15 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:38:42.693Z</lastmod>
+    <lastmod>2018-01-21T06:33:07.117Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（2）-通过Web开发演进过程了解一下为什么要有Spring AOP?</title>
         <pubTime>2017-12-25T06:35:44.000Z</pubTime>
         
         <tag>Spring</tag>
+         
+        <tag>Spring AOP</tag>
          
          
            
@@ -107,7 +89,7 @@
     
   <url>
     <loc>http://xuliugen.com/article/Tomcat/Four-pictures-take-you-to-understand-the-tomcat-system-architecture.html</loc>
-    <lastmod>2018-01-21T03:42:30.500Z</lastmod>
+    <lastmod>2018-01-21T06:31:58.990Z</lastmod>
     <data>
         <display>
         <title>四张图带你了解Tomcat系统架构--让面试官颤抖的Tomcat回答系列！</title>
@@ -119,6 +101,72 @@
            
              
               <breadCrumb title="Tomcat" url="http://xuliugen.com/categories/Tomcat/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xuliugen.com/article/Spring/Spring-transaction-and-dynamic-proxy.html</loc>
+    <lastmod>2018-01-21T06:24:07.847Z</lastmod>
+    <data>
+        <display>
+        <title>面试必备技能：JDK动态代理给Spring事务埋下的坑！</title>
+        <pubTime>2018-01-10T13:38:44.000Z</pubTime>
+        
+        <tag>Spring</tag>
+         
+        <tag>事务</tag>
+         
+        <tag>动态代理</tag>
+         
+         
+           
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xuliugen.com/article/Share/Recommended-several-very-useful-IDEA-plugins.html</loc>
+    <lastmod>2018-01-21T06:23:15.854Z</lastmod>
+    <data>
+        <display>
+        <title>推荐几款非常实用的IDEA插件</title>
+        <pubTime>2018-01-04T05:57:44.000Z</pubTime>
+        
+        <tag>IDEA</tag>
+         
+         
+           
+             
+              <breadCrumb title="资源分享" url="http://xuliugen.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xuliugen.com/article/Neo4j/What-is-graph-database-and-how-to-get-start.html</loc>
+    <lastmod>2018-01-21T06:23:11.070Z</lastmod>
+    <data>
+        <display>
+        <title>带你发现新大陆！什么是图数据库以及简单入门！</title>
+        <pubTime>2018-01-17T13:47:44.000Z</pubTime>
+        
+        <tag>Neo4j</tag>
+         
+        <tag>图数据库</tag>
+         
+         
+           
+             
+              <breadCrumb title="数据库" url="http://xuliugen.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
           
         </display>
     </data>
@@ -141,46 +189,6 @@
            
              
               <breadCrumb title="分布式" url="http://xuliugen.com/categories/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://xuliugen.com/article/Neo4j/What-is-graph-database-and-how-to-get-start.html</loc>
-    <lastmod>2018-01-20T10:39:02.438Z</lastmod>
-    <data>
-        <display>
-        <title>带你发现新大陆！什么是图数据库以及简单入门！</title>
-        <pubTime>2018-01-17T13:47:44.000Z</pubTime>
-        
-        <tag>Neo4j</tag>
-         
-         
-           
-             
-              <breadCrumb title="数据库" url="http://xuliugen.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://xuliugen.com/article/Share/Recommended-several-very-useful-IDEA-plugins.html</loc>
-    <lastmod>2018-01-20T08:57:08.916Z</lastmod>
-    <data>
-        <display>
-        <title>推荐几款非常实用的IDEA插件</title>
-        <pubTime>2018-01-04T05:57:44.000Z</pubTime>
-        
-        <tag>IDEA</tag>
-         
-         
-           
-             
-              <breadCrumb title="资源分享" url="http://xuliugen.com/categories/%E8%B5%84%E6%BA%90%E5%88%86%E4%BA%AB/"/>
           
         </display>
     </data>

@@ -9,6 +9,7 @@
       </categories>
       <tags>
         <tag>Neo4j</tag>
+        <tag>图数据库</tag>
       </tags>
   </entry>
   <entry>
@@ -33,6 +34,7 @@
       <tags>
         <tag>Spring</tag>
         <tag>事务</tag>
+        <tag>动态代理</tag>
       </tags>
   </entry>
   <entry>
@@ -55,6 +57,7 @@
       </categories>
       <tags>
         <tag>Spring</tag>
+        <tag>Spring IoC</tag>
       </tags>
   </entry>
   <entry>
@@ -88,6 +91,7 @@
       </categories>
       <tags>
         <tag>Spring</tag>
+        <tag>Spring AOP</tag>
       </tags>
   </entry>
   <entry>
