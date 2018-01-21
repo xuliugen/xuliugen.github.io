@@ -4,30 +4,60 @@
 
     
   <url>
-    <loc>http://xuliugen.com/article/Spring/The-history-of-Spring-and-today's-ecological-empire.html</loc>
-    <lastmod>2018-01-21T05:24:05.895Z</lastmod>
+    <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
+    <lastmod>2018-01-21T05:28:16.437Z</lastmod>
     <data>
         <display>
-        <title></title>
-        <pubTime>2018-01-21T05:19:46.537Z</pubTime>
+        <title>Spring核心技术原理-（2）-通过Web开发演进过程了解一下为什么要有Spring AOP?</title>
+        <pubTime>2017-12-25T06:35:44.000Z</pubTime>
         
+        <tag>Spring</tag>
+         
          
            
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:23:45.175Z</lastmod>
+    <loc>http://xuliugen.com/article/Spring/Three-routes-tell-you-how-to-master-the-core-principles-of-Spring-IoC-container.html</loc>
+    <lastmod>2018-01-21T05:27:46.102Z</lastmod>
     <data>
         <display>
-        <title></title>
-        <pubTime>2018-01-21T05:21:36.208Z</pubTime>
+        <title>Spring核心技术原理-（4）-三条路线告诉你如何掌握Spring IoC容器的核心原理</title>
+        <pubTime>2018-01-04T13:35:44.000Z</pubTime>
         
+        <tag>Spring</tag>
+         
          
            
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xuliugen.com/article/Spring/The-history-of-Spring-and-today's-ecological-empire.html</loc>
+    <lastmod>2018-01-21T05:27:43.047Z</lastmod>
+    <data>
+        <display>
+        <title>Spring核心技术原理-（3）-Spring历史版本变迁和如今的生态帝国</title>
+        <pubTime>2017-12-27T05:35:44.000Z</pubTime>
+        
+        <tag>Spring</tag>
+         
+         
+           
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
         </display>
     </data>
     </url>
@@ -35,14 +65,19 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:23:26.359Z</lastmod>
+    <lastmod>2018-01-21T05:27:32.454Z</lastmod>
     <data>
         <display>
-        <title></title>
-        <pubTime>2018-01-21T05:22:54.448Z</pubTime>
+        <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
+        <pubTime>2017-12-24T03:35:44.000Z</pubTime>
         
+        <tag>Spring</tag>
+         
          
            
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
         </display>
     </data>
     </url>
