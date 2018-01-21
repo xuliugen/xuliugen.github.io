@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://xuliugen.com/article/Spring/Three-routes-tell-you-how-to-master-the-core-principles-of-Spring-IoC-container.html</loc>
-    <lastmod>2018-01-21T05:34:39.877Z</lastmod>
+    <lastmod>2018-01-21T05:39:07.021Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（4）-三条路线告诉你如何掌握Spring IoC容器的核心原理</title>
@@ -24,8 +24,30 @@
 
     
   <url>
+    <loc>http://xuliugen.com/article/Spring/Spring-transaction-and-dynamic-proxy.html</loc>
+    <lastmod>2018-01-21T05:39:01.044Z</lastmod>
+    <data>
+        <display>
+        <title>面试必备技能：JDK动态代理给Spring事务埋下的坑！</title>
+        <pubTime>2018-01-10T13:38:44.000Z</pubTime>
+        
+        <tag>Spring</tag>
+         
+        <tag>事务</tag>
+         
+         
+           
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://xuliugen.com/article/Spring/The-history-of-Spring-and-today's-ecological-empire.html</loc>
-    <lastmod>2018-01-21T05:33:53.317Z</lastmod>
+    <lastmod>2018-01-21T05:38:53.061Z</lastmod>
     <data>
         <display>
         <title>Spring核心技术原理-（3）-Spring历史版本变迁和如今的生态帝国</title>
@@ -44,12 +66,12 @@
 
     
   <url>
-    <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:33:38.845Z</lastmod>
+    <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
+    <lastmod>2018-01-21T05:38:46.941Z</lastmod>
     <data>
         <display>
-        <title>Spring核心技术原理-（2）-通过Web开发演进过程了解一下为什么要有Spring AOP?</title>
-        <pubTime>2017-12-25T06:35:44.000Z</pubTime>
+        <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
+        <pubTime>2017-12-24T03:35:44.000Z</pubTime>
         
         <tag>Spring</tag>
          
@@ -64,12 +86,12 @@
 
     
   <url>
-    <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T05:32:57.157Z</lastmod>
+    <loc>http://xuliugen.com/article/Spring/Learn-Spring-AOP-through-the-Web-evolution-process.html</loc>
+    <lastmod>2018-01-21T05:38:42.693Z</lastmod>
     <data>
         <display>
-        <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
-        <pubTime>2017-12-24T03:35:44.000Z</pubTime>
+        <title>Spring核心技术原理-（2）-通过Web开发演进过程了解一下为什么要有Spring AOP?</title>
+        <pubTime>2017-12-25T06:35:44.000Z</pubTime>
         
         <tag>Spring</tag>
          
@@ -139,28 +161,6 @@
            
              
               <breadCrumb title="数据库" url="http://xuliugen.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://xuliugen.com/article/Spring/Spring-transaction-and-dynamic-proxy.html</loc>
-    <lastmod>2018-01-20T10:38:46.406Z</lastmod>
-    <data>
-        <display>
-        <title>面试必备技能：JDK动态代理给Spring事务埋下的坑！</title>
-        <pubTime>2018-01-10T13:38:44.000Z</pubTime>
-        
-        <tag>Spring</tag>
-         
-        <tag>事务</tag>
-         
-         
-           
-             
-              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
           
         </display>
     </data>
