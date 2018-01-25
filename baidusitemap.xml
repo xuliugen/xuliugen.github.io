@@ -4,6 +4,70 @@
 
     
   <url>
+    <loc>http://xuliugen.com/article/Jenkins/Auto-construction-with-SpringBoot-and-Jenkins.html</loc>
+    <lastmod>2018-01-25T06:53:20.337Z</lastmod>
+    <data>
+        <display>
+        <title>使用Jenkins配置SpringBoot的自动化构建</title>
+        <pubTime>2018-01-11T13:17:44.000Z</pubTime>
+        
+        <tag>Jenkins</tag>
+         
+        <tag>Spring Boot</tag>
+         
+        <tag>自动化集成</tag>
+         
+         
+           
+             
+              <breadCrumb title="Jenkins" url="http://xuliugen.com/categories/Jenkins/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
+    <lastmod>2018-01-25T05:32:03.101Z</lastmod>
+    <data>
+        <display>
+        <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
+        <pubTime>2017-12-24T03:35:44.000Z</pubTime>
+        
+        <tag>Spring</tag>
+         
+         
+           
+             
+              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://xuliugen.com/article/BigData/Big-Data-Age-Are-we-an-emperor-or-a-slave.html</loc>
+    <lastmod>2018-01-25T05:24:02.651Z</lastmod>
+    <data>
+        <display>
+        <title>大数据时代：我们是一朝天子，还是一世奴隶？</title>
+        <pubTime>2017-12-24T02:21:44.000Z</pubTime>
+        
+        <tag>大数据</tag>
+         
+         
+           
+             
+              <breadCrumb title="大数据" url="http://xuliugen.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://xuliugen.com/article/Spring/Three-routes-tell-you-how-to-master-the-core-principles-of-Spring-IoC-container.html</loc>
     <lastmod>2018-01-21T06:33:30.661Z</lastmod>
     <data>
@@ -32,26 +96,6 @@
         <display>
         <title>Spring核心技术原理-（3）-Spring历史版本变迁和如今的生态帝国</title>
         <pubTime>2017-12-27T05:35:44.000Z</pubTime>
-        
-        <tag>Spring</tag>
-         
-         
-           
-             
-              <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
-    <lastmod>2018-01-21T06:33:18.806Z</lastmod>
-    <data>
-        <display>
-        <title>Spring核心技术原理-（1）-通过Web开发演进过程了解一下为什么要有Spring?</title>
-        <pubTime>2017-12-24T03:35:44.000Z</pubTime>
         
         <tag>Spring</tag>
          

@@ -7,6 +7,30 @@
     </url>
 
     <url>
+        <loc>http://xuliugen.com/article/Jenkins/Auto-construction-with-SpringBoot-and-Jenkins.html</loc>
+        <lastmod>2018-01-25T06:53:20.337Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
+        <lastmod>2018-01-25T05:32:03.101Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://xuliugen.com/article/BigData/Big-Data-Age-Are-we-an-emperor-or-a-slave.html</loc>
+        <lastmod>2018-01-25T05:24:02.651Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://xuliugen.com/article/Spring/Three-routes-tell-you-how-to-master-the-core-principles-of-Spring-IoC-container.html</loc>
         <lastmod>2018-01-21T06:33:30.661Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,14 +41,6 @@
     <url>
         <loc>http://xuliugen.com/article/Spring/The-history-of-Spring-and-today's-ecological-empire.html</loc>
         <lastmod>2018-01-21T06:33:28.837Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
-        <lastmod>2018-01-21T06:33:18.806Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
