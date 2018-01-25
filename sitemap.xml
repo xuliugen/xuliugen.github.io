@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://xuliugen.com/article/BigData/Big-Data-Age-Are-we-an-emperor-or-a-slave.html</loc>
+    
+    <lastmod>2018-01-25T11:43:44.157Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://xuliugen.com/article/Distributed/Large-site-technology-architecture-load-balancing-technology-introduction.html</loc>
     
     <lastmod>2018-01-25T08:15:13.310Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://xuliugen.com/article/Spring/Learn-Spring-through-the-Web-evolution-process.html</loc>
     
     <lastmod>2018-01-25T05:32:03.101Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://xuliugen.com/article/BigData/Big-Data-Age-Are-we-an-emperor-or-a-slave.html</loc>
-    
-    <lastmod>2018-01-25T05:24:02.651Z</lastmod>
     
   </url>
   

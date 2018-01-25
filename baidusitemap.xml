@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>http://xuliugen.com/article/BigData/Big-Data-Age-Are-we-an-emperor-or-a-slave.html</loc>
+    <lastmod>2018-01-25T11:43:44.157Z</lastmod>
+    <data>
+        <display>
+        <title>大数据时代：我们是一朝天子，还是一世奴隶？</title>
+        <pubTime>2017-12-24T02:21:44.000Z</pubTime>
+        
+        <tag>大数据</tag>
+         
+         
+           
+             
+              <breadCrumb title="大数据" url="http://xuliugen.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://xuliugen.com/article/Distributed/Large-site-technology-architecture-load-balancing-technology-introduction.html</loc>
     <lastmod>2018-01-25T08:15:13.310Z</lastmod>
     <data>
@@ -85,26 +105,6 @@
            
              
               <breadCrumb title="SSM" url="http://xuliugen.com/categories/SSM/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://xuliugen.com/article/BigData/Big-Data-Age-Are-we-an-emperor-or-a-slave.html</loc>
-    <lastmod>2018-01-25T05:24:02.651Z</lastmod>
-    <data>
-        <display>
-        <title>大数据时代：我们是一朝天子，还是一世奴隶？</title>
-        <pubTime>2017-12-24T02:21:44.000Z</pubTime>
-        
-        <tag>大数据</tag>
-         
-         
-           
-             
-              <breadCrumb title="大数据" url="http://xuliugen.com/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
           
         </display>
     </data>
